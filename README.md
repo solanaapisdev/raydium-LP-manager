@@ -2,7 +2,7 @@
 
 This bot enables you to manage liquidity efficiently on the Solana blockchain. You can add liquidity to an OpenBook market ID, create liquidity pools, and opt for immediate or delayed liquidity removal. We are committed to continuously enhancing the bot with additional features.
 
-![Solana LP Remover](https://github.com/primeoss/raydium-LP-manager/blob/main/solana-lp-remover.png)
+![Solana Add Remove Liquidity Raydium](https://i.ibb.co/gRsjN9r/raydium-liquidity-remover-adder.png)
 
 ### Why Use This Bot?
 
