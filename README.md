@@ -25,6 +25,5 @@ This bot enables you to manage liquidity efficiently on the Solana blockchain. Y
 For more details on purchasing or customizing this bot:
 
 **Contact Information:**
-- **Telegram:** [@primeoss](https://t.me/primeoss)
-- **Email:** [prime@oss.one](mailto:prime@oss.one)
-- **Discord:** primeoss
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
