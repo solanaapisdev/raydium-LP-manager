@@ -25,5 +25,5 @@ This bot enables you to manage liquidity efficiently on the Solana blockchain. Y
 For more details on purchasing or customizing this bot:
 
 **Contact Information:**
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
